@@ -1,0 +1,45 @@
+var dr__frontend_8h =
+[
+    [ "drfront_access_mode_t", "dr__frontend_8h.html#acfd4ecf3103b976d1a1ac0f31c220f9a", [
+      [ "DRFRONT_EXIST", "dr__frontend_8h.html#acfd4ecf3103b976d1a1ac0f31c220f9aa70d63063f9b27ad1ae1d2aeb0ac22bc8", null ],
+      [ "DRFRONT_EXEC", "dr__frontend_8h.html#acfd4ecf3103b976d1a1ac0f31c220f9aacfd7acb695a756fce28f091df0b6e0b1", null ],
+      [ "DRFRONT_WRITE", "dr__frontend_8h.html#acfd4ecf3103b976d1a1ac0f31c220f9aaddeb7afef36e79e01aae30295ec4634d", null ],
+      [ "DRFRONT_READ", "dr__frontend_8h.html#acfd4ecf3103b976d1a1ac0f31c220f9aa737dc5f3619a1e65d7a9f4d660a0b44b", null ]
+    ] ],
+    [ "drfront_status_t", "dr__frontend_8h.html#afa7a8b9af2e39d441b3a31b3d5e19b05", [
+      [ "DRFRONT_SUCCESS", "dr__frontend_8h.html#afa7a8b9af2e39d441b3a31b3d5e19b05a9bb3826f6e2ec6b095a170e75e6d8164", null ],
+      [ "DRFRONT_ERROR", "dr__frontend_8h.html#afa7a8b9af2e39d441b3a31b3d5e19b05acfca3a3a3c77bcf72fe09836407932f8", null ],
+      [ "DRFRONT_ERROR_INVALID_PARAMETER", "dr__frontend_8h.html#afa7a8b9af2e39d441b3a31b3d5e19b05a44b3eed4870037b01678c6b48f2b909e", null ],
+      [ "DRFRONT_ERROR_INVALID_SIZE", "dr__frontend_8h.html#afa7a8b9af2e39d441b3a31b3d5e19b05aa9daaf3dbc1165e11a05dd93955ddd0f", null ],
+      [ "DRFRONT_ERROR_FILE_EXISTS", "dr__frontend_8h.html#afa7a8b9af2e39d441b3a31b3d5e19b05a242d49647e5d853bd4abf21e555771de", null ],
+      [ "DRFRONT_ERROR_INVALID_PATH", "dr__frontend_8h.html#afa7a8b9af2e39d441b3a31b3d5e19b05a66e732c8c6d0a6d4546c80aaa7cb3ae5", null ],
+      [ "DRFRONT_ERROR_ACCESS_DENIED", "dr__frontend_8h.html#afa7a8b9af2e39d441b3a31b3d5e19b05a9de46d61b4f074497f04b0eb68cf818e", null ],
+      [ "DRFRONT_ERROR_LIB_UNSUPPORTED", "dr__frontend_8h.html#afa7a8b9af2e39d441b3a31b3d5e19b05ac32f14d3bae699c87b48ecd0a04e0d65", null ]
+    ] ],
+    [ "drfront_access", "dr__frontend_8h.html#aaa1a61e216bdf9b8e98c0913b60511d2", null ],
+    [ "drfront_appdata_logdir", "dr__frontend_8h.html#ad59ad4ca03cf49ced7f389d6d22ab47c", null ],
+    [ "drfront_bufprint", "dr__frontend_8h.html#a766dcae90c4f0a4e4832d649b3a46b26", null ],
+    [ "drfront_char_to_tchar", "dr__frontend_8h.html#aaa4b40c5fec2540b34d54426dc0a7f50", null ],
+    [ "drfront_cleanup_args", "dr__frontend_8h.html#a4bf227c8498dcc60ac212d9373b79065", null ],
+    [ "drfront_convert_args", "dr__frontend_8h.html#a397bf1d1f62493be73de5071af408f5f", null ],
+    [ "drfront_create_dir", "dr__frontend_8h.html#a76fca16cd5d3d9599a268da7bdafd590", null ],
+    [ "drfront_dir_exists", "dr__frontend_8h.html#a1ad145d222a1c00035190bf76937dee7", null ],
+    [ "drfront_dir_try_writable", "dr__frontend_8h.html#a404d0146ae0721b7136293210eb576a9", null ],
+    [ "drfront_fetch_module_symbols", "dr__frontend_8h.html#aeefe412b3cea31c87604ac7b5eb2ef71", null ],
+    [ "drfront_get_absolute_path", "dr__frontend_8h.html#a2028e5d8cecb6c8f65b1e56c37ddeb5f", null ],
+    [ "drfront_get_app_full_path", "dr__frontend_8h.html#a8e3d55e783c10664c2d77f1ada80ca55", null ],
+    [ "drfront_get_env_var", "dr__frontend_8h.html#ab0617b136f568ad8c7db5e1ae3c45495", null ],
+    [ "drfront_is_64bit_app", "dr__frontend_8h.html#a07bbe41c48895487cc332775b9b879c6", null ],
+    [ "drfront_is_graphical_app", "dr__frontend_8h.html#a6df2b7dea684608a764257178cc47145", null ],
+    [ "drfront_remove_dir", "dr__frontend_8h.html#a5cc2c367395be6c3841bd5ab9023303c", null ],
+    [ "drfront_searchenv", "dr__frontend_8h.html#a702cdc47552fae8665b8b73dbe3d0a05", null ],
+    [ "drfront_set_client_symbol_search_path", "dr__frontend_8h.html#ab5b81d2f89b08c72dbe5d76773bd8fb0", null ],
+    [ "drfront_set_symbol_search_path", "dr__frontend_8h.html#af87174096643bd6574d0b23d79e99afb", null ],
+    [ "drfront_set_verbose", "dr__frontend_8h.html#ad681f3b7f775aaec45bda7f53167a956", null ],
+    [ "drfront_string_replace_character", "dr__frontend_8h.html#a3982380a7ae00c0a4e5e5ee4c0382e08", null ],
+    [ "drfront_string_replace_character_wide", "dr__frontend_8h.html#a1fbe8222cd99f08cd7793f1fbab3b026", null ],
+    [ "drfront_sym_exit", "dr__frontend_8h.html#a13a6b316092095426bc5bf42fa3be5cd", null ],
+    [ "drfront_sym_init", "dr__frontend_8h.html#a5f07d84ba1c34d33a62d978ab88391cd", null ],
+    [ "drfront_tchar_to_char", "dr__frontend_8h.html#abf57db4186e9552db555560ff873b0cc", null ],
+    [ "drfront_tchar_to_char_size_needed", "dr__frontend_8h.html#ae54259fc2b41c7ac312c63716b30ead2", null ]
+];

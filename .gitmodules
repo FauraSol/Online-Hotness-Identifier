@@ -1,0 +1,18 @@
+[submodule "DynamoRIO-Linux-10.93.19965/MapReduce-Word-Count"]
+	path = DynamoRIO-Linux-10.93.19965/MapReduce-Word-Count
+	url = https://github.com/tylernotthomas/MapReduce-Word-Count/
+[submodule "DynamoRIO-Linux-10.93.19965/PyTorch-Networks"]
+	path = DynamoRIO-Linux-10.93.19965/PyTorch-Networks
+	url = https://github.com/shanglianlm0525/PyTorch-Networks
+[submodule "DynamoRIO-Linux-10.93.19965/tiny-dnn"]
+	path = DynamoRIO-Linux-10.93.19965/tiny-dnn
+	url = https://github.com/tiny-dnn/tiny-dnn
+[submodule "DynamoRIO-Linux-10.93.19965/trng4"]
+	path = DynamoRIO-Linux-10.93.19965/trng4
+	url = https://github.com/rabauke/trng4
+[submodule "DynamoRIO-Linux-10.93.19965/hpc-mpi-projects"]
+	path = DynamoRIO-Linux-10.93.19965/hpc-mpi-projects
+	url = https://github.com/l3lackcurtains/hpc-mpi-projects
+[submodule "DynamoRIO-Linux-10.93.19965/ligra"]
+	path = DynamoRIO-Linux-10.93.19965/ligra
+	url = https://github.com/jshun/ligra.git

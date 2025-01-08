@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['umbra_5fclear_5fredundant_5fblocks_423',['umbra_clear_redundant_blocks',['../umbra_8h.html#a3750bcdc466df2ae434556191a3ecca6',1,'umbra.h']]],
+  ['umbra_5fcreate_5fmapping_424',['umbra_create_mapping',['../umbra_8h.html#a9a0a6515a2fccc30ed54d7425dae5102',1,'umbra.h']]],
+  ['umbra_5fcreate_5fshadow_5fmemory_425',['umbra_create_shadow_memory',['../umbra_8h.html#a3ae53d3b06fb7ebd633c34a3eb9f3e7a',1,'umbra.h']]],
+  ['umbra_5fcreate_5fshared_5fshadow_5fblock_426',['umbra_create_shared_shadow_block',['../umbra_8h.html#a6267039b4b682fafbee3175add6e3d1c',1,'umbra.h']]],
+  ['umbra_5fdelete_5fshadow_5fmemory_427',['umbra_delete_shadow_memory',['../umbra_8h.html#ab7a4b1cfe4dbf03fbd9393f50500493a',1,'umbra.h']]],
+  ['umbra_5fdestroy_5fmapping_428',['umbra_destroy_mapping',['../umbra_8h.html#aaf73f4014c48cef673def48f6f6e3426',1,'umbra.h']]],
+  ['umbra_5fexit_429',['umbra_exit',['../umbra_8h.html#a8a53bbe9aac961d63d73f5e8942d9826',1,'umbra.h']]],
+  ['umbra_5fget_5fshadow_5fblock_5fsize_430',['umbra_get_shadow_block_size',['../umbra_8h.html#a5b310b4f5298299c7214c2742a5d812c',1,'umbra.h']]],
+  ['umbra_5fget_5fshadow_5fmemory_431',['umbra_get_shadow_memory',['../umbra_8h.html#a60d8226d2905cb851e449a9229e568e4',1,'umbra.h']]],
+  ['umbra_5fget_5fshadow_5fmemory_5ftype_432',['umbra_get_shadow_memory_type',['../umbra_8h.html#a39640bfcf17bab37f23d6a0319fa819f',1,'umbra.h']]],
+  ['umbra_5fget_5fshared_5fshadow_5fblock_433',['umbra_get_shared_shadow_block',['../umbra_8h.html#a664e9b554c2292e40830cd5a5a1656c6',1,'umbra.h']]],
+  ['umbra_5finit_434',['umbra_init',['../umbra_8h.html#af7bd0146652ec43ce742f1bbe040c459',1,'umbra.h']]],
+  ['umbra_5finsert_5fapp_5fto_5fshadow_435',['umbra_insert_app_to_shadow',['../umbra_8h.html#aec06316ea847006daec231a1318047ad',1,'umbra.h']]],
+  ['umbra_5fiterate_5fapp_5fmemory_436',['umbra_iterate_app_memory',['../umbra_8h.html#a666d0c7cfadcc8e5fd96434d7be3eff8',1,'umbra.h']]],
+  ['umbra_5fiterate_5fshadow_5fmemory_437',['umbra_iterate_shadow_memory',['../umbra_8h.html#a96144f3c1d307f55a32bace1f65e9024',1,'umbra.h']]],
+  ['umbra_5fnum_5fscratch_5fregs_5ffor_5ftranslation_438',['umbra_num_scratch_regs_for_translation',['../umbra_8h.html#a7f360679b61e6c6c91e602ffa1d72a7b',1,'umbra.h']]],
+  ['umbra_5fread_5fshadow_5fmemory_439',['umbra_read_shadow_memory',['../umbra_8h.html#a4b88734bd9d3c234edb3a65f340be411',1,'umbra.h']]],
+  ['umbra_5freplace_5fshared_5fshadow_5fmemory_440',['umbra_replace_shared_shadow_memory',['../umbra_8h.html#a24263e605e166a3b2c40f34eae25a7b7',1,'umbra.h']]],
+  ['umbra_5fshadow_5fcopy_5frange_441',['umbra_shadow_copy_range',['../umbra_8h.html#a9040f9c8c479334e8c1b6fa2655d905f',1,'umbra.h']]],
+  ['umbra_5fshadow_5fmemory_5finfo_5finit_442',['umbra_shadow_memory_info_init',['../umbra_8h.html#a16080e1e17da8b608c5736f45644e713',1,'umbra.h']]],
+  ['umbra_5fshadow_5fmemory_5fis_5fshared_443',['umbra_shadow_memory_is_shared',['../umbra_8h.html#ac5e932542a171f8d68ed770192d88d86',1,'umbra.h']]],
+  ['umbra_5fshadow_5fset_5frange_444',['umbra_shadow_set_range',['../umbra_8h.html#ab5104a676228a1d80fe80edbf3095477',1,'umbra.h']]],
+  ['umbra_5fvalue_5fin_5fshadow_5fmemory_445',['umbra_value_in_shadow_memory',['../umbra_8h.html#a27ca42246ada089dfb91574fd0d18c4c',1,'umbra.h']]],
+  ['umbra_5fwrite_5fshadow_5fmemory_446',['umbra_write_shadow_memory',['../umbra_8h.html#a45c76b6f2fd1fe4748ee6881ba2e4334',1,'umbra.h']]]
+];

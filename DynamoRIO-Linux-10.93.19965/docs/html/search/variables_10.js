@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['randomize_5fnext_5finput_11816',['randomize_next_input',['../structdynamorio_1_1drmemtrace_1_1scheduler__tmpl__t_1_1scheduler__options__t.html#a9b9eb1d470d20cf68c3fa76250b074fe',1,'dynamorio::drmemtrace::scheduler_tmpl_t::scheduler_options_t']]],
+  ['raw_5fmcontext_11817',['raw_mcontext',['../struct__dr__restore__state__info__t.html#ab67531ba6dcb92c1c987ee980a2e6fc3',1,'_dr_restore_state_info_t::raw_mcontext()'],['../struct__dr__exception__t.html#a4ef0b67dcfa9c5abbc5e7b7533b62eaf',1,'_dr_exception_t::raw_mcontext()'],['../struct__dr__siginfo__t.html#a0bce3673e5a080fd5f6b1da9cbc8b364',1,'_dr_siginfo_t::raw_mcontext()']]],
+  ['raw_5fmcontext_5fvalid_11818',['raw_mcontext_valid',['../struct__dr__restore__state__info__t.html#a32a49b904d837fdd417fd07c13c8d4b4',1,'_dr_restore_state_info_t::raw_mcontext_valid()'],['../struct__dr__siginfo__t.html#a72eb3aeeabc53d8172b9d5ceb2ccd758',1,'_dr_siginfo_t::raw_mcontext_valid()']]],
+  ['read_5ffile_5ffunc_11819',['read_file_func',['../structdynamorio_1_1drmemtrace_1_1drmemtrace__replace__file__ops__t.html#af6ef2e561b8dceceb7529bd3c61c0fd9',1,'dynamorio::drmemtrace::drmemtrace_replace_file_ops_t']]],
+  ['read_5finputs_5fin_5finit_11820',['read_inputs_in_init',['../structdynamorio_1_1drmemtrace_1_1scheduler__tmpl__t_1_1scheduler__options__t.html#a34eaff9f2887f3469d737f73ad093343',1,'dynamorio::drmemtrace::scheduler_tmpl_t::scheduler_options_t']]],
+  ['reader_11821',['reader',['../structdynamorio_1_1drmemtrace_1_1scheduler__tmpl__t_1_1input__reader__t.html#aa7fb1267315ac23b00328beb6ddfceca',1,'dynamorio::drmemtrace::scheduler_tmpl_t::input_reader_t']]],
+  ['readers_11822',['readers',['../structdynamorio_1_1drmemtrace_1_1scheduler__tmpl__t_1_1input__workload__t.html#abd9cc43f03938dbd62c5bd13362bb873',1,'dynamorio::drmemtrace::scheduler_tmpl_t::input_workload_t']]],
+  ['record_11823',['record',['../struct__dr__exception__t.html#a114ca4ef841fbc0fdac76d7f848d66a7',1,'_dr_exception_t']]],
+  ['reg_11824',['reg',['../union__dr__xmm__t.html#ae2bc4ab082c64cb3692c154d0565044f',1,'_dr_xmm_t::reg()'],['../union__dr__ymm__t.html#ac697b6cd4599dbae2a0aefcd7bcc00ab',1,'_dr_ymm_t::reg()'],['../union__dr__zmm__t.html#a29343cf01904aaba0b0b80d18e7b7d46',1,'_dr_zmm_t::reg()']]],
+  ['regions_5fof_5finterest_11825',['regions_of_interest',['../structdynamorio_1_1drmemtrace_1_1scheduler__tmpl__t_1_1input__thread__info__t.html#a472a8e437ac776acb06bfffa3c928ae3',1,'dynamorio::drmemtrace::scheduler_tmpl_t::input_thread_info_t']]],
+  ['release_5fid_11826',['release_id',['../struct__dr__os__version__info__t.html#a7791d839c85dabd8b9033888c69836a1',1,'_dr_os_version_info_t']]],
+  ['remember_5fbase_11827',['remember_base',['../structdynamorio_1_1drmemtrace_1_1instr__summary__t_1_1memref__summary__t.html#a002c1acef34fd81d9a0c259d93411bea',1,'dynamorio::drmemtrace::instr_summary_t::memref_summary_t']]],
+  ['replay_5fas_5ftraced_5fistream_11828',['replay_as_traced_istream',['../structdynamorio_1_1drmemtrace_1_1scheduler__tmpl__t_1_1scheduler__options__t.html#a5367da0081dd5caed8d3d0c02fb9b6f2',1,'dynamorio::drmemtrace::scheduler_tmpl_t::scheduler_options_t']]],
+  ['reserved_11829',['reserved',['../struct__drreg__reserve__info__t.html#a61e4b8db5446fb088a1dbd42a2182162',1,'_drreg_reserve_info_t']]],
+  ['resizable_11830',['resizable',['../struct__hashtable__config__t.html#a57d8fbea14e95d3b25c8f741f895ba33',1,'_hashtable_config_t']]],
+  ['resize_5fthreshold_11831',['resize_threshold',['../struct__hashtable__config__t.html#a0980cc09676063a4c9d5cc223f11eb51',1,'_hashtable_config_t']]],
+  ['rsrc_5fname_11832',['rsrc_name',['../struct__module__names__t.html#a9b6f211a8296b8b049491f61c3ee7395',1,'_module_names_t']]],
+  ['runtime_5fcase_5fopnd_11833',['runtime_case_opnd',['../structdrbbdup__options__t.html#a7fb17bcf671377cff01cf91615462b55',1,'drbbdup_options_t']]]
+];

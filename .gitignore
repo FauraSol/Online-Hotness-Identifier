@@ -1,0 +1,12 @@
+*.log
+*.json
+*.csv
+data
+*.model
+*.bin
+*.pt
+*.zip
+*.pyc
+*.txt
+*.trace
+results
