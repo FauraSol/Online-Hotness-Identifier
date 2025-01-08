@@ -1,1 +1,0 @@
-./ligra/apps/PageRank -s ./ligra/inputs/rMatGraph_J_5_100

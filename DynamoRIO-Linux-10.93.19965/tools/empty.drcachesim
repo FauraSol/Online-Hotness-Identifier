@@ -1,4 +1,0 @@
-# analysis tool creator config file
-TOOL_NAME=empty
-CREATOR_BIN32=tools/lib32/release/libempty_creator.so
-CREATOR_BIN64=tools/lib32/release/libempty_creator.so

@@ -1,12 +1,9 @@
 *.log
 *.json
 *.csv
+*.trace
 data
 *.model
 *.bin
 *.pt
-*.zip
-*.pyc
-*.txt
-*.trace
 results
