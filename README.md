@@ -46,3 +46,6 @@ The full process of online hotness judgement is as follows:
 * **Feature Vector Extraction**: Following the initial prediction, the feature vector associated with the new data access is extracted. This vector encapsulates the essential characteristics of the data access, including but not limited to, data f low, control flow, and system information.
 * **Evaluation Queue Management**: The extracted feature vector is then added to an evaluation queue, which operates on a first-in-first-out (FIFO) principle. This queue has a finite capacity, ensuring that only the most recent data accesses are retained for evaluation. This design is pivotal for maintaining the system’s responsiveness and efficiency
 * **Heat Index Update**: While the feature vector is in the evaluation queue, the system accesses the corresponding part of the memory and updates the heat index. This index is a critical metric that reflects the recency and frequency of data access, thus influencing data storage and retrieval strategies.
+
+### Test
+Refer to `test.py`
